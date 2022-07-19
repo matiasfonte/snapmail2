@@ -1,0 +1,138 @@
+/* selectores de etiqueta */
+h1{
+	color: deeppink;
+}
+
+main{
+	color: darkblue;
+}
+
+style{
+		color: darkblue;
+	}
+
+nav{
+	.linear-gradient
+	background: rgb(131,58,180);
+	background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 29%, rgba(252,176,69,1) 68%);
+}
+
+
+	nav	li{
+		list-style: none;
+	}
+
+		nav	ul 	li	a{
+			color: black;
+			text-decoration: none;
+		}
+
+/* selectores de Clase */
+
+.header{;	
+	width: 95%;
+	height: 100px;
+	background-color: 	
+		.linear-gradient
+		background: rgb(131,58,180);
+		background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 29%, rgba(252,176,69,1) 68%);;
+		padding: 38px;
+	}
+
+.text-right{
+		text-align: right;
+}
+
+.text-italic{
+	font-style: italic;
+}
+
+.head__logo{
+	width: 15%;
+	height: 10%;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	margin: 5px	5px;
+	transform:skew(20deg);
+	animate__heartBeat
+
+}
+
+.Head__menu{
+	float: right;
+	padding: 10px 25px 10px 10px;
+}
+
+.imagen__central{
+	width: 95%;
+	text-align: center;
+	padding: 15px 1px 10px 10px;
+	transform:skew(2deg);
+}
+
+.relato__izquierdo__imagen{
+	text-align: left;
+	width: 20%;
+	height: auto;
+	padding: 20px 10 px;
+}
+
+.relato__izquierdo__texto{
+	width: 20%;
+	height: auto;
+	color: darkblue;
+	font-family: sans-serif;
+	font-size: small;
+	padding: 10px 20px
+}
+
+.float-parent-element{
+	width: 100%;
+	height: 500px;
+}
+
+.float-child-element{
+	float: left;
+	width: 50%;
+
+}
+
+.relato__derecho__imagen{
+	text-align: left;
+	width: 20%;
+	height: auto;
+}
+
+.relato__derecho__texto{
+	width: 20%;
+	height: auto;
+	color: darkblue;
+	font-family: sans-serif;
+	font-size: small;
+	padding: 10px 20px
+}
+
+.footer{;	
+	width: 100%;
+	height: 25px;
+	background-color: 	
+		.linear-gradient
+		background: rgb(131,58,180);
+		background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 29%, rgba(252,176,69,1) 68%);;
+		padding: 38px;
+}
+.footer__imagenes{
+	width: 25px;
+	height: 25px;
+	align-items: left;
+}
+.footer__contactos{
+	float: right;
+	padding: 10px 50px 10px 10px;
+}
+
+/* selectores de ID */
+
+#nosotros{
+	/*propiedades */
+}
